@@ -1,0 +1,27 @@
+[
+    {
+      "id": "123456789",
+      "username": "John Snow",
+      "email": "blahblah@gmail.com",
+      "password": "senha123",
+      "registradoEm": "31-02-2006",
+      "perfil": {
+        "nome": "John Snow",
+        "bio": "Rei do Norte.",
+        "imagemPerfil": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnoticiasdatv.uol.com.br%2Fnoticia%2Fseries%2Fsaiba-por-que-segredo-revelado-de-jon-snow-muda-o-jogo-de-game-thrones-26037&psig=AOvVaw1eEC6VGaB2ehP2nFJKG4Zt&ust=1721528091004000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCTkozGtIcDFQAAAAAdAAAAABAJ"
+      }
+    },
+    {
+      "id": "123456789",
+      "username": "Manoel Bala",
+      "email": "ManoelLindo1307@gmail.com",
+      "password": "123senha",
+      "registradoEm": "13-07-2019",
+      "perfil": {
+        "nome": "Manoel Bala",
+        "bio": "Feio Não, Exótico.",
+        "imagemPerfil": "https://www.google.com/imgres?q=michael%20b%20jordan&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fdublagem%2Fimages%2F1%2F16%2FMichael_B._Jordan.png%2Frevision%2Flatest%3Fcb%3D20210929204510%26path-prefix%3Dpt-br&imgrefurl=https%3A%2F%2Fdublagem.fandom.com%2Fwiki%2FMichael_B._Jordan&docid=V0grlNrHnhg5AM&tbnid=cw2qAv-gPbkaFM&vet=12ahUKEwiF8u_wxrSHAxUpppUCHfVaBtsQM3oECHUQAA..i&w=400&h=570&hcb=2&ved=2ahUKEwiF8u_wxrSHAxUpppUCHfVaBtsQM3oECHUQAA"
+      }
+    }
+  ]
+  
